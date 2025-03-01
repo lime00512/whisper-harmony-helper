@@ -99,7 +99,7 @@ const ConversationSimulator: React.FC<ConversationSimulatorProps> = ({
           animationType="fade"
           className="text-center p-4"
         >
-          <div className="chip text-harmony-light mb-3">HarmonyAI</div>
+          <div className="chip text-harmony-light mb-3">HeartneyAI</div>
           <h3 className="text-xs font-medium text-harmony-light mb-2">Ready to assist</h3>
           <p className="text-[10px] text-harmony-light/70 mb-4">
             Tap the microphone to start analyzing your conversation
