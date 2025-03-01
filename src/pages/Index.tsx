@@ -30,7 +30,7 @@ const Index = () => {
             <span>Concept Demo</span>
           </div>
           <h1 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl mb-2">
-            HarmonyAI
+            HeartneyAI
           </h1>
           <p className="text-gray-500 max-w-2xl mx-auto">
             An intelligent assistant that helps improve communication in personal relationships
@@ -165,7 +165,7 @@ const Index = () => {
       {/* Footer */}
       <footer className="w-full py-6 px-4 bg-white border-t border-gray-200 mt-8">
         <div className="max-w-4xl mx-auto text-center text-sm text-gray-500">
-          <p>HarmonyAI — Improving relationships through better communication</p>
+          <p>HeartneyAI — Improving relationships through better communication</p>
           <p className="mt-1 text-xs text-gray-400">Demo concept • Not for actual use</p>
         </div>
       </footer>
